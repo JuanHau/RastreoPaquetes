@@ -1,0 +1,47 @@
+{
+  "Empresas": [
+    {
+      "Nombre": "Fedex",
+      "MargenUtilidad": "50",
+      "Transporte": [
+        {
+          "Nombre": "Barco",
+          "CostoKm": "1",
+          "Velocidad": "46"
+        }
+      ]
+    },
+    {
+      "Nombre": "DHL",
+      "MargenUtilidad": "40",
+      "Transporte": [
+        {
+          "Nombre": "Avion",
+          "CostoKm": "10",
+          "Velocidad": "600"
+        },
+        {
+          "Nombre": "Barco",
+          "CostoKm": "1",
+          "Velocidad": "46"
+        }
+      ]
+    },
+    {
+      "Nombre": "Estafeta",
+      "MargenUtilidad": "20",
+      "Transporte": [
+        {
+          "Nombre": "Tren",
+          "CostoKm": "5",
+          "Velocidad": "80"
+        },
+        {
+          "Nombre": "Barco",
+          "CostoKm": "1",
+          "Velocidad": "46"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\RastreoPaquetes.exe
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\obj\Debug\netcoreapp3.0\RastreoPaquetes.AssemblyInfoInputs.cache
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\obj\Debug\netcoreapp3.0\RastreoPaquetes.AssemblyInfo.cs
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\RastreoPaquetes.deps.json
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\RastreoPaquetes.runtimeconfig.json
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\RastreoPaquetes.runtimeconfig.dev.json
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\RastreoPaquetes.dll
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\RastreoPaquetes.pdb
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\obj\Debug\netcoreapp3.0\RastreoPaquetes.csproj.CopyComplete
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\obj\Debug\netcoreapp3.0\RastreoPaquetes.dll
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\obj\Debug\netcoreapp3.0\RastreoPaquetes.pdb
+C:\BLUE OCEAN\CAPACITACION\Patron\RastreoPaquetes\RastreoPaquetes\obj\Debug\netcoreapp3.0\RastreoPaquetes.csprojAssemblyReference.cache

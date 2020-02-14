@@ -1,0 +1,4 @@
+﻿namespace RastreoPaquetes.Entidades.ConfiguracionDto
+{
+
+}
